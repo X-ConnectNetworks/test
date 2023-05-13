@@ -1,4 +1,4 @@
 # AWSパラメータ一覧
 ## 目次
-- [ec2_list.md](https://github.com/X-ConnectNetworks/test/blob/main/docs/ec2_list.md)
-- [rds_list.md](https://github.com/X-ConnectNetworks/test/blob/main/docs/rds_list.md)
+- [ec2_list.md](https://x-connectnetworks.github.io/test/ec2_list.md)
+- [rds_list.md](https://x-connectnetworks.github.io/test/rds_list.md)
