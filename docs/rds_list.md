@@ -1,4 +1,6 @@
 ---
+title: rds
+layout: default
 ---
 # RDS
 
